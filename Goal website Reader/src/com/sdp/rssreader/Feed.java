@@ -1,6 +1,7 @@
 package com.sdp.rssreader;
 
 public class Feed {
+	//declare
 	
 	private String title;
 	private String url;
